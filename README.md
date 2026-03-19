@@ -18,9 +18,7 @@ An advanced, multi-agent pipeline orchestrated with LangGraph that autonomously 
 
 ## 📸 Demo & Screenshots
 
-*(Replace these placeholders with your actual screenshots and video links!)*
-
-**[ Insert Demo Video GIF Here ]**
+Video Demo - https://drive.google.com/file/d/1Etvfaj3MWQmHq-PGzcLD7SUhSELfKwMd/view?usp=sharing
 
 <img width="1910" height="977" alt="Screenshot 2026-03-19 at 10 52 12 AM" src="https://github.com/user-attachments/assets/814a7093-cde3-44e3-b28c-2f234e0a0e23" />
 
