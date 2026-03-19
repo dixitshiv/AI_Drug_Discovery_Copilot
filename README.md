@@ -1,4 +1,4 @@
-# AI Drug Discovery Co Pilot 🧬
+# AI Drug Discovery Co Pilot
 
 An advanced, multi-agent pipeline orchestrated with LangGraph that autonomously executes early-stage drug discovery. By inputting a disease indication, the system dynamically mines biomedical literature, statistically validates novel target proteins, predicts 3D spatial structures, and executes generative molecular docking.
 
@@ -6,7 +6,7 @@ An advanced, multi-agent pipeline orchestrated with LangGraph that autonomously 
 
 ---
 
-## ✨ Features & Architecture
+## Features & Architecture
 
 * **Autonomous Multi-Agent Swarm (LangGraph):** Sequential orchestration of specialized agents (LiteratureMiner, TargetValidator, StructuralBio, Cheminformatics).
 * **Real-Time Agent Execution Terminal:** A beautiful Next.js interactive dashboard that streams the internal "thought process" and system calls of the agents.
@@ -16,7 +16,7 @@ An advanced, multi-agent pipeline orchestrated with LangGraph that autonomously 
 
 ---
 
-## 📸 Demo & Screenshots
+## Demo & Screenshots
 
 Video Demo - https://drive.google.com/file/d/1Etvfaj3MWQmHq-PGzcLD7SUhSELfKwMd/view?usp=sharing
 
@@ -36,7 +36,7 @@ Video Demo - https://drive.google.com/file/d/1Etvfaj3MWQmHq-PGzcLD7SUhSELfKwMd/v
 
 <img width="1779" height="801" alt="Screenshot 2026-03-19 at 10 54 11 AM" src="https://github.com/user-attachments/assets/6b77a8fb-4bdd-4a5e-80fe-d37c3a7d49f0" />
 
-## 🚀 Local Environment Setup
+## Local Environment Setup
 
 Since the project is divided into a LangGraph/FastAPI backend and a Next.js frontend, you need to run two terminal windows.
 
@@ -76,7 +76,7 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 project1/
@@ -98,7 +98,7 @@ project1/
 
 ---
 
-## 📈 Development Phases
+## Development Phases
 
 | Phase | Status | Description |
 |-------|--------|-------------|
@@ -111,6 +111,6 @@ project1/
 
 ---
 
-## 🧬 Key Concepts Tracker
+## Key Concepts Tracker
 
 Not from a biology background? Read [`biotech_primer.md`](./biotech_primer.md) for a plain-English explanation of the biochemical concepts and AI architectures used in this project.
